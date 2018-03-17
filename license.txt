@@ -1,0 +1,23 @@
+GCD UNION ANTI ANTIVIRUS OPEN SOURCE MALWARE LICENSE
+PREAMBLE
+This license is intended for GCD Union project but you are allowed to reuse this license for your project, if you want to,
+This license, unlike others, is intended to protect the malware and it's author from AV vendors and legal enforcement (through a legal disclaimer) so if you apply this license for your malware, you should be safe from both AV threats and legal threats.
+ENS OF PREAMBLE
+
+AnonCrypt Ransomware is Copyright (C) GCD Union Secrecy. All rights reserved.
+You may use, distribute, study and modify the Program under the following terms:
+
+0. Definitions
+ "Source Code": anything that is distributed to You and used to create any other forms of the Program.
+ "Executable Code": any form of the Program that runs, it could be the Source Code itself (like a script)
+
+1. You must NOT use the Source Code or the Executable Code to defect the operation of the Program on a machine that You doesn't own, through other programs you distribute.
+
+2. You must NOT reveal the identity of the author if you redistribute only the Executable Code (this also allow you to discard the copyright notice)
+
+3. Any redistributions of the Program under the form of Source Code must retain the copyright notice and this terms.
+
+WE, THE COPYRIGHT HOLDERS REMAIN THE RIGHTS TO REVOKE THE LICENSE AT ANY TIME IF WE LIKE TO.
+
+THE SOFTWARE IS PROVIDES "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR LIMITED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
